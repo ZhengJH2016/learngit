@@ -5,3 +5,4 @@ Git tracks changes.
 Git add origin.
 Creating a new branch is quick
 Creating a new branch is quick and simple.
+Close fast forward.
