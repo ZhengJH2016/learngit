@@ -6,3 +6,5 @@ Git add origin.
 Creating a new branch is quick
 Creating a new branch is quick and simple.
 Close fast forward.
+Git test for stash.
+Git I am in dev, test for origin.
